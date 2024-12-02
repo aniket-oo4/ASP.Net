@@ -1,0 +1,5 @@
+C:\Users\Aniket.Varkhade\Desktop\aniket\2ASP_DEEP_DIVE_UDEMY\Section14__ASP.NetServiceProviders\MyCustomProvider\bin\Debug\MyCustomProvider.dll
+C:\Users\Aniket.Varkhade\Desktop\aniket\2ASP_DEEP_DIVE_UDEMY\Section14__ASP.NetServiceProviders\MyCustomProvider\bin\Debug\MyCustomProvider.pdb
+C:\Users\Aniket.Varkhade\Desktop\aniket\2ASP_DEEP_DIVE_UDEMY\Section14__ASP.NetServiceProviders\MyCustomProvider\obj\Debug\MyCustomProvider.csprojResolveAssemblyReference.cache
+C:\Users\Aniket.Varkhade\Desktop\aniket\2ASP_DEEP_DIVE_UDEMY\Section14__ASP.NetServiceProviders\MyCustomProvider\obj\Debug\MyCustomProvider.dll
+C:\Users\Aniket.Varkhade\Desktop\aniket\2ASP_DEEP_DIVE_UDEMY\Section14__ASP.NetServiceProviders\MyCustomProvider\obj\Debug\MyCustomProvider.pdb

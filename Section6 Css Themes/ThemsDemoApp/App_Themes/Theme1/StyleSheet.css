@@ -1,0 +1,19 @@
+﻿body {
+    background-color:azure;
+    font-family:Arial;
+    
+}
+
+b {
+
+font-size:24pt;
+color:chocolate;
+}
+.demo{
+letter-spacing:2mm;
+font-family:'Baskerville Old Face';
+display:flex;
+justify-content:center;
+
+}
+

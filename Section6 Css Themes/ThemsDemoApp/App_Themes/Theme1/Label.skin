@@ -1,0 +1,13 @@
+﻿      <asp:Label  runat="server" 
+BackColor="Yellow" 
+BorderColor="#CC00FF" 
+BorderStyle="Dotted" 
+ForeColor="Red" ></asp:Label>
+
+<%--   Skin with id  --%>
+      <asp:Label  runat="server"
+SkinId="RedLabel" 
+BackColor="Red" 
+BorderColor="Blue" 
+BorderStyle="Dotted" 
+ForeColor="Yellow" ></asp:Label>

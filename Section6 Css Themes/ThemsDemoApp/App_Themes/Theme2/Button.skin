@@ -1,0 +1,6 @@
+﻿ <asp:Button runat="server"
+ BackColor="green" 
+BorderColor="Pink"
+ BorderStyle="Dotted" 
+BorderWidth="10px"
+Text="MyButton"  />

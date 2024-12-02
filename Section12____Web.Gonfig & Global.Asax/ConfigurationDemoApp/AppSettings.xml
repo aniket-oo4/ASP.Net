@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<appSettings>
+  <add key="k1"  value="v1"/>
+  <add key="k2"  value="v22"/>
+
+
+</appSettings>
